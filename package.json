@@ -1,0 +1,28 @@
+{
+  "name": "vue-persian-numbers-directive",
+  "version": "1.0.0",
+  "description": "A Vue directive that converts Persian char numbers to English char numbers",
+  "main": "vue-persian-numbers-directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firibz/vue-persian-numbers-directive.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "convert",
+    "persian",
+    "numbers",
+    "digits",
+    "directive"
+  ],
+  "author": "Fariborz Korevli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firibz/vue-persian-numbers-directive/issues"
+  },
+  "homepage": "https://github.com/firibz/vue-persian-numbers-directive#readme"
+}
